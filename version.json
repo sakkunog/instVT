@@ -1,9 +1,7 @@
 {
     "currentVersion":"24.07.0",
-    "versionModules":{
-        "YY":24,
-        "MM":07,
-        "Minor":0,
-    },
+    "YY":"24",
+    "MM":"07",
+    "Minor":0,
     "updateLink":"https://raw.githubusercontent.com/sakkunog/instVT/main/version.json"
 }
