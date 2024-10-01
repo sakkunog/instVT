@@ -13,6 +13,6 @@ a plugin application that uses midi signals from a piano keyboard to animate a l
 ````
 #### The Application (Plugin)
 
-1. Download the [application](https://github.com/sakkunog/instVT/releases/latest/download/instvt-vts-win64-1.1.0.exe) from [releases](https://github.com/sakkunog/instVT/releases/latest).
+1. Download the [application](https://github.com/sakkunog/instVT/releases/tag/1.1.1/download/instvt-vts-win64-1.1.0.exe) from [releases](https://github.com/sakkunog/instVT/releases/latest).
 2. Run VTube Studio and start API to allow plugins. Then run the application downloaded.
 3. Vtube Studio will prompt about a connection request from instVT. Click Allow.
